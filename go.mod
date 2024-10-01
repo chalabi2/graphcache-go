@@ -1,6 +1,6 @@
 module github.com/CrocSwap/graphcache-go
 
-go 1.22
+go 1.22.0
 
 require (
 	github.com/ethereum/go-ethereum v1.11.6
